@@ -1,4 +1,4 @@
-name: Node.js app deploy.yml
+name: Node.js app deploy
 
 on:
   push:
